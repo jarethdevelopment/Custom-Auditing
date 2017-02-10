@@ -1,0 +1,20 @@
+c:\users\bencress\documents\visual studio 2017\Projects\CustomAuditing\CustomAuditing\bin\Debug\CustomAuditing.dll
+c:\users\bencress\documents\visual studio 2017\Projects\CustomAuditing\CustomAuditing\bin\Debug\CustomAuditing.pdb
+c:\users\bencress\documents\visual studio 2017\Projects\CustomAuditing\CustomAuditing\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\bencress\documents\visual studio 2017\Projects\CustomAuditing\CustomAuditing\bin\Debug\Microsoft.IdentityModel.dll
+c:\users\bencress\documents\visual studio 2017\Projects\CustomAuditing\CustomAuditing\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\bencress\documents\visual studio 2017\Projects\CustomAuditing\CustomAuditing\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\bencress\documents\visual studio 2017\Projects\CustomAuditing\CustomAuditing\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\bencress\documents\visual studio 2017\Projects\CustomAuditing\CustomAuditing\obj\Debug\CustomAuditing.csprojResolveAssemblyReference.cache
+c:\users\bencress\documents\visual studio 2017\Projects\CustomAuditing\CustomAuditing\obj\Debug\CustomAuditing.dll
+c:\users\bencress\documents\visual studio 2017\Projects\CustomAuditing\CustomAuditing\obj\Debug\CustomAuditing.pdb
+C:\Share\CustomAuditing\bin\Debug\CustomAuditing.dll
+C:\Share\CustomAuditing\bin\Debug\CustomAuditing.pdb
+C:\Share\CustomAuditing\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Share\CustomAuditing\bin\Debug\Microsoft.IdentityModel.dll
+C:\Share\CustomAuditing\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Share\CustomAuditing\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Share\CustomAuditing\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Share\CustomAuditing\obj\Debug\CustomAuditing.csprojResolveAssemblyReference.cache
+C:\Share\CustomAuditing\obj\Debug\CustomAuditing.dll
+C:\Share\CustomAuditing\obj\Debug\CustomAuditing.pdb
